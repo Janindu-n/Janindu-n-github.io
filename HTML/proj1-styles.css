@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  header {
+    width: 100%;
+    text-align: center;
+    margin-bottom: 50px;
+  }
+  
+  .video-section {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    width: 800px;
+    height: 500px;
+  }
+  
+  .video-section video {
+    margin-left: 50px;
+  }
+  
+  .video-description {
+    width: 400px;
+  }
+  
+  
